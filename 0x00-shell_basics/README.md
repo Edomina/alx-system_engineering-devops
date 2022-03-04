@@ -6,3 +6,5 @@ create a script creates a drectory my_first_directory in the /tmp/ directory
 move the file betty from /tmp/my_first_directory
 delete the file betty
 delete the directory my_first_directory that is in the /tmp directory.
+A script that changes the working directory to the previous one
+A script that changes the working directory to the previous one.
