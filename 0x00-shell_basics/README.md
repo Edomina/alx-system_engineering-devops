@@ -4,3 +4,4 @@ display current directory contents including hidden files (starting with .)use t
 display current directory contents long format, with user and group IDs displayed numerically and hidden files (starting with .).
 create a script creates a drectory my_first_directory in the /tmp/ directory
 move the file betty from /tmp/my_first_directory
+delete the file betty
