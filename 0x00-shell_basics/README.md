@@ -5,3 +5,4 @@ display current directory contents long format, with user and group IDs displaye
 create a script creates a drectory my_first_directory in the /tmp/ directory
 move the file betty from /tmp/my_first_directory
 delete the file betty
+delete the directory my_first_directory that is in the /tmp directory.
